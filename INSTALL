@@ -1,0 +1,9 @@
+Building Fibercoin
+
+See doc/readme-qt.rst for instructions on building Fibercoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Fibercoin.
+
+See doc/build-*.txt for instructions on building Fibercoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Fibercoin.
